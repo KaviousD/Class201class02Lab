@@ -1,5 +1,5 @@
 ## Class 02 Lab 
-+ This link below take you to My page where you can view my lab for class 02
++ This link below take you to my page where you can view my lab for class 02
 <br>
                             ⇩⇩⇩⇩⇩⇩⇩
 <br>
