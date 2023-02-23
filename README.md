@@ -1,6 +1,6 @@
-# [Class201 class 02 Lab]"https://github.com/KaviousD/Class201class02Lab"
-
+## Class 02 Lab 
++ This link below take you to My page where you can view my lab for class 02
+                        ⇩⇩⇩⇩⇩⇩⇩
 <a
-    href="https://www.mozilla.org/en-US/"
-    title="The best place to find more information about Mozilla's
-          mission and how to contribute">the Mozilla homepage</a>
+    href="https://github.com/KaviousD/Class201class02Lab"
+    title="The best place to find information about my class lab for 02">201 Class02 Lab</a>
